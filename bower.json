@@ -1,0 +1,16 @@
+{
+  "name": "spikup-dependencies",
+  "version": "0.0.1",
+  "homepage": "https://github.com/YungMims/spikup-dependencies",
+  "authors": [
+    "Liel Mimouni <liel.mimouni@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
