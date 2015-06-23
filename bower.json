@@ -6,11 +6,11 @@
     "Liel Mimouni <liel.mimouni@outlook.com>"
   ],
   "license": "MIT",
+  "main": [
+    "sails.io.js"
+  ],
   "ignore": [
-    "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
